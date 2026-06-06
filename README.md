@@ -38,11 +38,11 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=twistedtarantula&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-stats-extended.vercel.app/api?username=twistedtarantula&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
   <img src="https://streak-stats.demolab.com/?user=twistedtarantula&theme=tokyonight&hide_border=false" alt="GitHub Streak">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twistedtarantula&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=twistedtarantula&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </p>
 
 ### ✍️ Random Dev Quote
