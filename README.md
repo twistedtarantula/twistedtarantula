@@ -39,7 +39,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=twistedtarantula&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=twistedtarantula&theme=tokyonight&hide_border=false" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com/?user=twistedtarantula&theme=tokyonight&hide_border=false" alt="GitHub Streak">
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twistedtarantula&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
@@ -52,5 +52,5 @@
 
 ---
 <p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=twistedtarantula&icon=7&color=0" alt="Visit Count"></a>
+  <img src="https://komarev.com/ghpvc/?username=twistedtarantula&label=Profile%20Views&color=0e1726&style=flat" alt="Visit Count">
 </p>
