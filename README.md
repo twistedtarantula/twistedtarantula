@@ -35,12 +35,12 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Activity & Tech:
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=twistedtarantula&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img src="https://streak-stats.demolab.com/?user=twistedtarantula&theme=tokyonight&hide_border=false" alt="GitHub Streak">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=twistedtarantula&theme=tokyo-night&hide_border=false&area=true" alt="GitHub Activity Graph">
 </p>
+
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=twistedtarantula&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </p>
